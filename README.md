@@ -1,2 +1,2 @@
 # Employee-Management-System
-Employee Management System using SpringBoot, Reactjs and MySQL
+This is Employee Management System Project which is developed using SpringBoot, Reactjs and MySQL
