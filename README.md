@@ -1,4 +1,5 @@
-**Employee Management System
+Employee Management System
+
  Every  organization, whether big or small,has human resource challenges to overcome.
  Every organization has different employee management needs, therefore we design exclusive employee management systems that are adapted to your managerial requirements.
  This is designed to assist in strategic planning, and will help you ensure that your organization is equipped with the right level of human resources for your future goals. 
