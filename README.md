@@ -8,7 +8,11 @@ These systems will ultimately allow you to better manage resources. One of the m
 Effective time tracking mechanism saves both time and money for the organization
  
 In order to run this project following is the configuration which is required for smooth running of the software.
+
 Software's Requirements
+
 Front End :	React.js
-Back End :SpringBoot
+
+Back End : SpringBoot
+
 Database :	MySQL
