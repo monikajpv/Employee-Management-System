@@ -1,4 +1,4 @@
-Employee Management System
+# Employee Management System
 
 Every  organization, whether big or small,has human resource challenges to overcome.
 Every organization has different employee management needs, therefore we design exclusive employee management systems that are adapted to your managerial requirements.
@@ -9,7 +9,7 @@ Effective time tracking mechanism saves both time and money for the organization
  
 In order to run this project following is the configuration which is required for smooth running of the software.
 
-Software's Requirements
+# Software's Requirements
 
 Front End :	React.js
 
